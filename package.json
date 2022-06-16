@@ -1,0 +1,27 @@
+{
+  "name": "skriddy",
+  "version": "0.0.1",
+  "description": "CLI tool that generates scaffolding for CLI tools",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/evanhalley/skriddy.git"
+  },
+  "keywords": [
+    "node",
+    "javascript",
+    "cli",
+    "command",
+    "line",
+    "interface"
+  ],
+  "author": "Evan Halley",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/evanhalley/skriddy/issues"
+  },
+  "homepage": "https://github.com/evanhalley/skriddy#readme"
+}

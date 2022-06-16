@@ -1,0 +1,11 @@
+{
+  "name": "{{SKRIDDY_NAME}}",
+  "version": "{{SKRIDDY_VERSION}}",
+  "description": "{{SKRIDDY_DESCRIPTION}}",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "{{SKRIDDY_AUTHOR}}",
+  "license": "{{SKRIDDY_LICENSE}}"
+}
